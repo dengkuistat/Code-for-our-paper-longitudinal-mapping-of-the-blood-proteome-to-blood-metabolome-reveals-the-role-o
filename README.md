@@ -1,0 +1,1 @@
+R code used for peer review and replicating statistical analyses for our manuscript: Longitudinal mapping of the blood proteome to blood metabolome reveals the role of the protein-metabolite axes in metabolic health.
